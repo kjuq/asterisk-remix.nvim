@@ -1,11 +1,13 @@
 # Asterisk-remix: Yet another * -Improved
 
+---
+
 - TODO: add DEMO
 	- Use `nvim-keycastr`?
 
-## Installation
+# Installation
 
-### Lazy.nvim
+## Lazy.nvim
 
 ```lua
 {
@@ -24,3 +26,8 @@
 	}
 }
 ```
+
+# Similar projects
+
+- [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk)
+- [rapan931/lasterisk.nvim](https://github.com/rapan931/lasterisk.nvim)
