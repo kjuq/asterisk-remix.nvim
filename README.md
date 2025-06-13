@@ -1,5 +1,7 @@
 # Asterisk-remix: Yet another * -Improved
 
+**This plugin is in WIP state**
+
 ---
 
 - TODO: add DEMO
